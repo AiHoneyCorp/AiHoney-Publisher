@@ -79,7 +79,7 @@ See [ROADMAP.md](ROADMAP.md).
 
 ## Contact
 
-For product, security, or platform-integration enquiries:
+For product, price, business, security, or platform-integration enquiries:
 
 **AiHoney**  
 Email: **aihoneyinfo@gmail.com**
