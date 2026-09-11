@@ -2,7 +2,7 @@
 
 This directory is reserved for public AiHoney Publisher screenshots and product visuals.
 
-Recommended screenshots:
+Screenshots:
 
 - Review workspace
 - Metadata workspace
